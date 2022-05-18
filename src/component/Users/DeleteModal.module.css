@@ -1,0 +1,19 @@
+.btn_da{
+    font: inherit;
+	border: 1px solid #4f005f;
+	background: #4f005f;
+	color: white;
+	padding: 0.25rem 1rem;
+	cursor: pointer;
+    border-radius: 10px;
+}
+.btn_net{
+    font: inherit;
+	border: 1px solid #4f005f;
+	background: #4f005f;
+	color: white;
+	padding: 0.25rem 1rem;
+	cursor: pointer;
+    margin-left: 5px;
+    border-radius: 10px;
+}
